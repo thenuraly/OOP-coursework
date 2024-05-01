@@ -26,7 +26,11 @@ Now, let's talk about 2 different design patterns I used:
 2) Observer: The code follows the Observer pattern in the game loop, where it continuously listens for events such as mouse clicks (MOUSEBUTTONDOWN) and updates the game state accordingly. The game loop acts as the subject, while the event-handling code acts as observers that react to changes in the game state.
 
 
-Overall, my code contains single class filerunning the game onb the PyGame, and it covers almost every
+Overall, my code contains single class filerunning the game onb the PyGame, and it covers almost every requirment.
+
+# Results: 
+
+It was my first time ever using the PyCharm library and creating video-games. 
 
 
 
