@@ -15,8 +15,18 @@ Opening the code in the folder, called OOP Project. And Copying the code as well
 
 My code is a single, simple OOP file performed by the Polymorphism, Inheritance, and Encapsulation OOP pillars, and 2 of the ways of the desgn patterns called - Singleton and Observer. To my regret I was not able to use Abstraction method which could allow me to "hide" complex implemntations and to show only neccessary functions. I believe, it is because I have chosen simple topic to perform and though I do not need this method.
 
-Going further, I want to show the 
+Going further, I want to show with examples of how I used 3 pillars of OOP with the examples of the code. 
+1) Encapsulation:If we will look at the class "Square", we see that attributes such that x, y, content,image and others; methods such as clicked and update are also encapsulates.
+2) Inheritance: Our main class called Square here inherits from the base-class of the PyGame called pygame.sprite. Example: class Square(p.sprite.Sprite): (7 line)
+3) Polymorphism: here the method def update() (20 line) is the example of the Polymorphism. Square class are added to the square_group sprite group and updated in the game loop using the update() method.
 
+
+Now, let's talk about 2 different design patterns I used:
+1) Singleton: While not explicitly implemented, the use of global variables and methods throughout the code somewhat resembles the Singleton pattern. For example, the board, turn, won, and compMove variables are global and accessible from multiple functions.
+2) Observer: The code follows the Observer pattern in the game loop, where it continuously listens for events such as mouse clicks (MOUSEBUTTONDOWN) and updates the game state accordingly. The game loop acts as the subject, while the event-handling code acts as observers that react to changes in the game state.
+
+
+Overall, my code contains single class filerunning the game onb the PyGame, and it covers almost every
 
 
 
