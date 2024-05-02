@@ -30,7 +30,16 @@ Overall, my code contains single class filerunning the game onb the PyGame, and 
 
 # Results: 
 
-It was my first time ever using the PyCharm library and creating video-games,which I believe, will be a starting point for me to study more about current library and start studying about more advanced game engines. Personally, I think that I covered almost every topic required to do, and get a solid mark for the job I have done. The most challenging part was the adding .txt file, since I have never done it before 
+It was my first time ever using the PyCharm library and creating video-games,which I believe, will be a starting point for me to study more about current library and start studying about more advanced game engines. Personally, I think that I covered almost every topic required to do, and get a solid mark for the job I have done. The most challenging part was the adding .txt file, since I have never done it before, so I faced some obstacles, but considering that it was a easy deal, the overall work process was pretty easy. 
+Another problem was to find the pictures that match exactly what I was looking for.
+
+Maybe the code could be fully performed by uploading results of the game to the python-integrated data bases, and to put "RESTART" button that automatically reruns the code and allows us to restart the game quicker.
+
+Having positive experience in doing video games, I want to start coding by tutorials small videogames to gain experience, and someday to come up with something unique. 
+
+
+# Thank You for attention. 
+Course work was performed by Nuraly Yessengeldi EKFU-23 groupe.
 
 
 
