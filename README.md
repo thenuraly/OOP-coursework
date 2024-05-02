@@ -30,7 +30,7 @@ Overall, my code contains single class filerunning the game onb the PyGame, and 
 
 # Results: 
 
-It was my first time ever using the PyCharm library and creating video-games. 
+It was my first time ever using the PyCharm library and creating video-games,which I believe, will be a starting point for me to study more about current library and start studying about more advanced game engines. Personally, I think that I covered almost every topic required to do, and get a solid mark for the job I have done. The most challenging part was the adding .txt file, since I have never done it before 
 
 
 
